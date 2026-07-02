@@ -27,7 +27,7 @@ export default function SafeguardingSection() {
           <img 
             src="https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=1200&auto=format&fit=crop" 
             alt="Safeguarding hands" 
-            className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+            className="w-full h-full object-cover  hover:grayscale-0 transition-all duration-700"
             referrerPolicy="no-referrer"
           />
         </div>
